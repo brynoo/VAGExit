@@ -1,4 +1,5 @@
 import React, { Suspense, lazy, useEffect, useState } from "react";
+import { Analytics } from "@vercel/analytics/react";
 import { station } from "./lib/netz.js";
 import { Icon, USymbol, Laden } from "./ui/Teile.jsx";
 import Planer from "./ui/Planer.jsx";
@@ -58,6 +59,7 @@ export default function App() {
       {detail && <StationDetail id={detail} onZu={() => setDetail(null)} on3D={(id) => setDrei({ id })}
         onHin={(s) => { setPlan((p) => ({ ...p, nach: { art: "station", id: s.id, name: s.name, lat: s.lat, lon: s.lon } })); setDetail(null); setTab("plan"); }} />}
       {ticket && <Ticket {...ticket} onZu={() => setTicket(null)} on3D={(id, ausgangId) => setDrei({ id, ausgangId })} />}
+      <Analytics />
       {drei && <Suspense fallback={<div className="blatt"><Laden zeilen={6} /></div>}><Station3D {...drei} onZu={() => setDrei(null)} /></Suspense>}
     </div>
   );

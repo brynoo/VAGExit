@@ -167,6 +167,10 @@ export default function Planer({ zustand, setZustand, onTicket }) {
               OSRM (FOSSGIS e.V.), an die Adresssuche Photon (komoot) und an die Kartenkacheln von OpenStreetMap
               gestellt. Diese Dienste sehen dabei die IP-Adresse des Geräts.
             </p>
+            <p>
+              Zusätzlich zählt Vercel Web Analytics die Seitenaufrufe. Auch das läuft ohne Cookies
+              und ohne Wiedererkennung einzelner Besucher.
+            </p>
             <p>Fragen dazu gern an den Betreiber dieser Seite.</p>
           </div>
         </div>
