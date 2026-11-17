@@ -3,6 +3,8 @@
 Fahrplanauskunft für die Nürnberger U-Bahn, die nicht am Bahnsteig aufhört,
 sondern sagt, durch welchen Ausgang man muss und wie die letzten Meter laufen.
 
+**Live: [vagexit.vercel.app](https://vagexit.vercel.app)**
+
 <img src="docs/start.jpg" width="250" alt="Startbildschirm"> <img src="docs/ticket.jpg" width="250" alt="Fahrt in Abschnitten"> <img src="docs/3d.jpg" width="250" alt="3D-Ansicht der Station">
 
 ## Problem
@@ -31,12 +33,12 @@ mit der jeweils nächsten Station.
 ## Starten
 
 ```bash
-./start.sh
+npm install
+npm run dev
 ```
 
-Baut die App, startet den Server und einen Tunnel, und gibt drei Adressen aus:
-lokal, im WLAN und von überall. `--lokal` lässt den Tunnel weg, `--stop` beendet alles.
-Zum Entwickeln `npm run dev`.
+Fuer einen Build mit lokalem Server und Tunnel gibt es `./start.sh`
+(`--lokal` ohne Tunnel, `--stop` beendet alles). Deployen mit `npm run deploy`.
 
 Auf dem Handy in Safari über *Teilen → Zum Home-Bildschirm* ablegbar, dann läuft es
 wie eine App.
