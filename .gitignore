@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.DS_Store
+
+# OSM-Rohdaten: ~37 MB, werden von osm/generiere_alle.py neu geladen
+osm/raw/
+
+# Umgebungsplaene der VGN, nur lokal zum Nachschlagen
+pdfs/
