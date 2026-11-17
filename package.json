@@ -8,16 +8,18 @@
     "build": "vite build",
     "preview": "vite preview --host 0.0.0.0 --port 8777",
     "daten": "python3 osm/build_netz.py",
-    "stationen": "python3 osm/generiere_alle.py"
+    "stationen": "python3 osm/generiere_alle.py",
+    "deploy": "vercel deploy --prod"
   },
   "dependencies": {
+    "leaflet": "^1.9.4",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "three": "^0.160.1",
-    "leaflet": "^1.9.4"
+    "three": "^0.160.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
+    "vercel": "^65.17.0",
     "vite": "^5.4.11"
   }
 }

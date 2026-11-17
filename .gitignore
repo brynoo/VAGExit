@@ -7,3 +7,6 @@ osm/raw/
 
 # Umgebungsplaene der VGN, nur lokal zum Nachschlagen
 pdfs/
+
+# Vercel-Projektverknuepfung, gehoert nicht ins Repo
+.vercel/
