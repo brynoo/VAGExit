@@ -1,0 +1,162 @@
+[
+ {
+  "id": "hbf",
+  "name": "Hauptbahnhof",
+  "gruppe": "schnell",
+  "text": "Fern- und Regionalzüge, S-Bahn",
+  "lat": 49.446203,
+  "lon": 11.081865
+ },
+ {
+  "id": "innenstadt",
+  "name": "Innenstadt",
+  "gruppe": "schnell",
+  "text": "Hauptmarkt, mitten in der Altstadt",
+  "lat": 49.453684,
+  "lon": 11.07727
+ },
+ {
+  "id": "flughafen",
+  "name": "Flughafen",
+  "gruppe": "schnell",
+  "text": "Terminal, Abflug und Ankunft",
+  "lat": 49.49446,
+  "lon": 11.0792
+ },
+ {
+  "id": "messe",
+  "name": "Messe",
+  "gruppe": "schnell",
+  "text": "NürnbergMesse, Eingang Mitte",
+  "lat": 49.416305,
+  "lon": 11.115319
+ },
+ {
+  "id": "frauenkirche",
+  "name": "Frauenkirche",
+  "gruppe": "sehen",
+  "text": "Gotische Kirche am Hauptmarkt, Männleinlaufen um 12 Uhr",
+  "lat": 49.454044,
+  "lon": 11.078181
+ },
+ {
+  "id": "brunnen",
+  "name": "Schöner Brunnen",
+  "gruppe": "sehen",
+  "text": "Goldener Brunnen am Hauptmarkt",
+  "lat": 49.454231,
+  "lon": 11.077042
+ },
+ {
+  "id": "burg",
+  "name": "Kaiserburg",
+  "gruppe": "sehen",
+  "text": "Wahrzeichen über der Altstadt",
+  "lat": 49.457584,
+  "lon": 11.076551
+ },
+ {
+  "id": "lorenz",
+  "name": "Lorenzkirche",
+  "gruppe": "sehen",
+  "text": "Große gotische Kirche in der Fußgängerzone",
+  "lat": 49.451003,
+  "lon": 11.078655
+ },
+ {
+  "id": "sebald",
+  "name": "Sebalduskirche",
+  "gruppe": "sehen",
+  "text": "Älteste Pfarrkirche der Stadt",
+  "lat": 49.455284,
+  "lon": 11.076448
+ },
+ {
+  "id": "duerer",
+  "name": "Albrecht-Dürer-Haus",
+  "gruppe": "sehen",
+  "text": "Wohnhaus des Malers unterhalb der Burg",
+  "lat": 49.457159,
+  "lon": 11.0738
+ },
+ {
+  "id": "gnm",
+  "name": "Germanisches Nationalmuseum",
+  "gruppe": "sehen",
+  "text": "Größtes kulturgeschichtliches Museum im deutschen Sprachraum",
+  "lat": 49.448083,
+  "lon": 11.07616
+ },
+ {
+  "id": "handwerkerhof",
+  "name": "Handwerkerhof",
+  "gruppe": "sehen",
+  "text": "Kleine Fachwerkgasse am Königstor",
+  "lat": 49.447401,
+  "lon": 11.081176
+ },
+ {
+  "id": "weissgerber",
+  "name": "Weißgerbergasse",
+  "gruppe": "sehen",
+  "text": "Fachwerkhäuser, schönste Gasse der Altstadt",
+  "lat": 49.455188,
+  "lon": 11.072844
+ },
+ {
+  "id": "henkersteg",
+  "name": "Henkersteg",
+  "gruppe": "sehen",
+  "text": "Holzbrücke über die Pegnitz",
+  "lat": 49.45311,
+  "lon": 11.073059
+ },
+ {
+  "id": "spielzeug",
+  "name": "Spielzeugmuseum",
+  "gruppe": "sehen",
+  "text": "Spielzeug aus sechs Jahrhunderten",
+  "lat": 49.454606,
+  "lon": 11.074262
+ },
+ {
+  "id": "dbmuseum",
+  "name": "DB Museum",
+  "gruppe": "sehen",
+  "text": "Eisenbahngeschichte, Adler-Lokomotive",
+  "lat": 49.445503,
+  "lon": 11.074361
+ },
+ {
+  "id": "neuesmuseum",
+  "name": "Neues Museum",
+  "gruppe": "sehen",
+  "text": "Kunst und Design der Gegenwart",
+  "lat": 49.447676,
+  "lon": 11.079934
+ },
+ {
+  "id": "memorium",
+  "name": "Memorium Nürnberger Prozesse",
+  "gruppe": "sehen",
+  "text": "Saal 600 im Justizpalast",
+  "lat": 49.454437,
+  "lon": 11.04832
+ },
+ {
+  "id": "oper",
+  "name": "Opernhaus",
+  "gruppe": "sehen",
+  "text": "Staatstheater Nürnberg",
+  "lat": 49.446892,
+  "lon": 11.074714
+ },
+ {
+  "id": "woehrdersee",
+  "name": "Wöhrder See",
+  "gruppe": "sehen",
+  "text": "Stadtsee mit Uferweg und Strand",
+  "lat": 49.457533,
+  "lon": 11.109751
+ }
+]
