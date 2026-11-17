@@ -1,0 +1,2619 @@
+{
+"534": [
+{
+"name": "Wölckernstraße, Pillenreutherstraße (Südost)",
+"seite": "Südost",
+"strasse": "Wölckernstraße",
+"lat": 49.440149,
+"lon": 11.080771,
+"aufzug": false,
+"rolltreppe": false,
+"id": "534-0"
+},
+{
+"name": "Aufseßplatz",
+"seite": "Nord",
+"strasse": "Aufseßplatz",
+"lat": 49.441534,
+"lon": 11.079994,
+"aufzug": true,
+"rolltreppe": false,
+"id": "534-1"
+},
+{
+"name": "Aufseßplatz, Breitscheidstraße, Wiesenstraße",
+"seite": "Süd",
+"strasse": "Aufseßplatz",
+"lat": 49.44054,
+"lon": 11.080249,
+"aufzug": false,
+"rolltreppe": true,
+"id": "534-2"
+},
+{
+"name": "Kopernikusplatz, Landgrabenstraße",
+"seite": "Süd",
+"strasse": "Kopernikusplatz",
+"lat": 49.43991,
+"lon": 11.080524,
+"aufzug": false,
+"rolltreppe": false,
+"id": "534-3"
+},
+{
+"name": "Wölckernstraße, Pillenreutherstraße (Südost) 2",
+"seite": "Südost",
+"strasse": "Wölckernstraße",
+"lat": 49.440404,
+"lon": 11.080798,
+"aufzug": false,
+"rolltreppe": false,
+"id": "534-4"
+},
+{
+"name": "Aufzug Aufseßplatz",
+"seite": "Süd",
+"strasse": "Aufseßplatz",
+"lat": 49.440748,
+"lon": 11.08026,
+"aufzug": true,
+"rolltreppe": false,
+"id": "534-5"
+}
+],
+"1550": [
+{
+"name": "Bauernfeindstraße",
+"seite": "Nordwest",
+"strasse": "Bauernfeindstraße",
+"lat": 49.417451,
+"lon": 11.107106,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1550-0"
+},
+{
+"name": "Aufzug Bauernfeindstraße",
+"seite": "Nordwest",
+"strasse": "Bauernfeindstraße",
+"lat": 49.417323,
+"lon": 11.107399,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1550-1"
+}
+],
+"702": [
+{
+"name": "Paumgartnerstraße",
+"seite": "West",
+"strasse": "Fürther Straße",
+"lat": 49.452703,
+"lon": 11.049738,
+"aufzug": false,
+"rolltreppe": false,
+"id": "702-0"
+},
+{
+"name": "Memorium, Sielstraße",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.45292,
+"lon": 11.049786,
+"aufzug": false,
+"rolltreppe": false,
+"id": "702-1"
+},
+{
+"name": "Troststraße",
+"seite": "Ost",
+"strasse": "Fürther Straße",
+"lat": 49.452271,
+"lon": 11.051828,
+"aufzug": false,
+"rolltreppe": false,
+"id": "702-2"
+},
+{
+"name": "Preißlerstraße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.452164,
+"lon": 11.051403,
+"aufzug": false,
+"rolltreppe": false,
+"id": "702-3"
+},
+{
+"name": "Glockendonstraße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.452049,
+"lon": 11.05176,
+"aufzug": false,
+"rolltreppe": false,
+"id": "702-4"
+},
+{
+"name": "Aufzug Fürther Straße",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.452534,
+"lon": 11.050775,
+"aufzug": true,
+"rolltreppe": false,
+"id": "702-5"
+}
+],
+"1103": [
+{
+"name": "Raabstraße, Fürther Straße (Nordwest)",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.458753,
+"lon": 11.032326,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1103-0"
+},
+{
+"name": "Regerstraße, Fürther Straße",
+"seite": "Ost",
+"strasse": "Fürther Straße",
+"lat": 49.458033,
+"lon": 11.034505,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1103-1"
+},
+{
+"name": "Raabstraße, Fürther Straße (Ost)",
+"seite": "Ost",
+"strasse": "Fürther Straße",
+"lat": 49.458186,
+"lon": 11.034038,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1103-2"
+},
+{
+"name": "Fürther Straße, Adam-Klein-Straße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.457604,
+"lon": 11.03443,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1103-3"
+},
+{
+"name": "Leiblstraße, Fürther Straße",
+"seite": "West",
+"strasse": "Fürther Straße",
+"lat": 49.458405,
+"lon": 11.032064,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1103-4"
+},
+{
+"name": "Fürther Straße (West)",
+"seite": "West",
+"strasse": "Fürther Straße",
+"lat": 49.458107,
+"lon": 11.032235,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1103-5"
+},
+{
+"name": "Aufzug Fürther Straße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.457942,
+"lon": 11.034036,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1103-6"
+},
+{
+"name": "Fürther Straße (Nordwest)",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.458436,
+"lon": 11.032711,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1103-7"
+}
+],
+"1391": [
+{
+"name": "U-Bahn - Flughafen (West)",
+"seite": "West",
+"strasse": "",
+"lat": 49.494083,
+"lon": 11.07725,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1391-0"
+},
+{
+"name": "U-Bahn - Flughafen (Nord)",
+"seite": "Nord",
+"strasse": "",
+"lat": 49.493908,
+"lon": 11.079171,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1391-1"
+},
+{
+"name": "Ausgang West (West)",
+"seite": "West",
+"strasse": "",
+"lat": 49.49399,
+"lon": 11.078282,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1391-2"
+},
+{
+"name": "U-Bahn - Flughafen (West) 2",
+"seite": "West",
+"strasse": "",
+"lat": 49.494045,
+"lon": 11.077689,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1391-3"
+},
+{
+"name": "Ausgang West (West) 2",
+"seite": "West",
+"strasse": "",
+"lat": 49.49396,
+"lon": 11.078608,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1391-4"
+},
+{
+"name": "Ausgang West (West) 3",
+"seite": "West",
+"strasse": "",
+"lat": 49.494257,
+"lon": 11.077634,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1391-5"
+}
+],
+"561": [
+{
+"name": "Frankenstraße (Südost)",
+"seite": "Südost",
+"strasse": "Frankenstraße",
+"lat": 49.429455,
+"lon": 11.086725,
+"aufzug": false,
+"rolltreppe": true,
+"id": "561-0"
+},
+{
+"name": "Frankenstraße (Südost) 2",
+"seite": "Südost",
+"strasse": "Frankenstraße",
+"lat": 49.429037,
+"lon": 11.087018,
+"aufzug": false,
+"rolltreppe": false,
+"id": "561-1"
+},
+{
+"name": "Frankenstraße, Huldstraße",
+"seite": "Südwest",
+"strasse": "Frankenstraße",
+"lat": 49.429414,
+"lon": 11.085925,
+"aufzug": false,
+"rolltreppe": false,
+"id": "561-2"
+},
+{
+"name": "Lothringer Straße",
+"seite": "Nord",
+"strasse": "Lothringer Straße",
+"lat": 49.430664,
+"lon": 11.086181,
+"aufzug": true,
+"rolltreppe": false,
+"id": "561-3"
+},
+{
+"name": "Katzwanger Straße",
+"seite": "Süd",
+"strasse": "Katzwanger Straße",
+"lat": 49.428849,
+"lon": 11.086166,
+"aufzug": false,
+"rolltreppe": true,
+"id": "561-4"
+},
+{
+"name": "Frankenstraße, Katzwanger Straße",
+"seite": "Süd",
+"strasse": "Katzwanger Straße",
+"lat": 49.42887,
+"lon": 11.086732,
+"aufzug": false,
+"rolltreppe": false,
+"id": "561-5"
+},
+{
+"name": "Pillenreuther Straße, Sperberstraße",
+"seite": "Nord",
+"strasse": "Pillenreuther Straße",
+"lat": 49.430931,
+"lon": 11.086685,
+"aufzug": false,
+"rolltreppe": false,
+"id": "561-6"
+}
+],
+"232": [
+{
+"name": "Kirchenweg, Rückertstraße",
+"seite": "West",
+"strasse": "Rückertstraße",
+"lat": 49.462596,
+"lon": 11.070417,
+"aufzug": false,
+"rolltreppe": true,
+"id": "232-0"
+},
+{
+"name": "Bucher Straße, Archivstraße",
+"seite": "Nordost",
+"strasse": "Bucher Straße",
+"lat": 49.462632,
+"lon": 11.071767,
+"aufzug": false,
+"rolltreppe": false,
+"id": "232-1"
+},
+{
+"name": "Bucher Straße (Südost)",
+"seite": "Südost",
+"strasse": "Bucher Straße",
+"lat": 49.462236,
+"lon": 11.071578,
+"aufzug": false,
+"rolltreppe": true,
+"id": "232-2"
+},
+{
+"name": "Bucher Straße (Südost) 2",
+"seite": "Südost",
+"strasse": "Bucher Straße",
+"lat": 49.462158,
+"lon": 11.071861,
+"aufzug": false,
+"rolltreppe": false,
+"id": "232-3"
+},
+{
+"name": "Aufzug Bucher Straße",
+"seite": "Ost",
+"strasse": "Bucher Straße",
+"lat": 49.462442,
+"lon": 11.071478,
+"aufzug": true,
+"rolltreppe": false,
+"id": "232-4"
+}
+],
+"2390": [
+{
+"name": "Komotauer Straße",
+"seite": "Nordost",
+"strasse": "Komotauer Straße",
+"lat": 49.480649,
+"lon": 10.958419,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2390-0"
+},
+{
+"name": "Soldnerstraße (West)",
+"seite": "West",
+"strasse": "Komotauer Straße",
+"lat": 49.480307,
+"lon": 10.956567,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2390-1"
+},
+{
+"name": "Soldnerstraße (West) 2",
+"seite": "West",
+"strasse": "Komotauer Straße",
+"lat": 49.480375,
+"lon": 10.957093,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2390-2"
+}
+],
+"2110": [
+{
+"name": "Fürther Freiheit, Innenstadt",
+"seite": "Nordwest",
+"strasse": "Gustav-Schickedanz-Straße",
+"lat": 49.470985,
+"lon": 10.990697,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-0"
+},
+{
+"name": "Aufzug Bahnhofplatz (West)",
+"seite": "West",
+"strasse": "Bahnhofplatz",
+"lat": 49.470384,
+"lon": 10.990748,
+"aufzug": true,
+"rolltreppe": true,
+"id": "2110-1"
+},
+{
+"name": "Bahnhofplatz (West)",
+"seite": "West",
+"strasse": "Bahnhofplatz",
+"lat": 49.470541,
+"lon": 10.990062,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2110-2"
+},
+{
+"name": "Bahnhofplatz (Nordwest)",
+"seite": "Nordwest",
+"strasse": "Bahnhofplatz",
+"lat": 49.470796,
+"lon": 10.990217,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2110-3"
+},
+{
+"name": "Bahnhofplatz (Nordwest) 2",
+"seite": "Nordwest",
+"strasse": "Bahnhofplatz",
+"lat": 49.470642,
+"lon": 10.990877,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2110-4"
+},
+{
+"name": "Gebhardtstraße",
+"seite": "Südost",
+"strasse": "Gebhardtstraße",
+"lat": 49.470016,
+"lon": 10.992344,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-5"
+},
+{
+"name": "Aufzug Bahnhofplatz (West) 2",
+"seite": "West",
+"strasse": "Bahnhofplatz",
+"lat": 49.469965,
+"lon": 10.989988,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2110-6"
+},
+{
+"name": "Ludwigstraße",
+"seite": "Südwest",
+"strasse": "Ludwigstraße",
+"lat": 49.469207,
+"lon": 10.98974,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-7"
+},
+{
+"name": "Bahnhofplatz (Südwest)",
+"seite": "Südwest",
+"strasse": "Bahnhofplatz",
+"lat": 49.469878,
+"lon": 10.990375,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-8"
+},
+{
+"name": "Karolinenstraße (Südwest)",
+"seite": "Südwest",
+"strasse": "Karolinenstraße",
+"lat": 49.469654,
+"lon": 10.990062,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-9"
+},
+{
+"name": "Karolinenstraße (Südwest) 2",
+"seite": "Südwest",
+"strasse": "Karolinenstraße",
+"lat": 49.469594,
+"lon": 10.989698,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2110-10"
+}
+],
+"2180": [
+{
+"name": "Würzburger Straße, Unterfarrnbach (West)",
+"seite": "West",
+"strasse": "Würzburger Straße",
+"lat": 49.482552,
+"lon": 10.967887,
+"aufzug": true,
+"rolltreppe": true,
+"id": "2180-0"
+},
+{
+"name": "Seniorenheim",
+"seite": "Ost",
+"strasse": "Friedrich-Ebert-Straße",
+"lat": 49.482429,
+"lon": 10.969878,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2180-1"
+},
+{
+"name": "Kirche St. Martin, Klinikum",
+"seite": "Ost",
+"strasse": "Wilhelmstraße",
+"lat": 49.48276,
+"lon": 10.970091,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2180-2"
+},
+{
+"name": "Kirche Christkönig",
+"seite": "Ost",
+"strasse": "Friedrich-Ebert-Straße",
+"lat": 49.482448,
+"lon": 10.96953,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2180-3"
+},
+{
+"name": "Würzburger Straße, Unterfarrnbach (West) 2",
+"seite": "West",
+"strasse": "Karmelitenplatz",
+"lat": 49.482576,
+"lon": 10.96854,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2180-4"
+}
+],
+"2164": [
+{
+"name": "Rathaus, Stadttheater, Brandenburger Straße",
+"seite": "Südost",
+"strasse": "Brandenburger Straße",
+"lat": 49.476938,
+"lon": 10.989025,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2164-0"
+},
+{
+"name": "Königstraße, Altstadtviertel St. Michael",
+"seite": "Nord",
+"strasse": "Obstmarkt",
+"lat": 49.478196,
+"lon": 10.988387,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2164-1"
+},
+{
+"name": "Mohrenstraße, Stadthalle",
+"seite": "Nordwest",
+"strasse": "Mohrenstraße",
+"lat": 49.478122,
+"lon": 10.987682,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2164-2"
+},
+{
+"name": "Rathaus (Nord)",
+"seite": "Nord",
+"strasse": "Obstmarkt",
+"lat": 49.47788,
+"lon": 10.988175,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2164-3"
+},
+{
+"name": "Rathaus, Königstraße",
+"seite": "Nord",
+"strasse": "Königstraße",
+"lat": 49.477909,
+"lon": 10.988562,
+"aufzug": true,
+"rolltreppe": true,
+"id": "2164-4"
+},
+{
+"name": "Fußgängerzone, City Center, Technisches Rathaus",
+"seite": "Süd",
+"strasse": "Kohlenmarkt",
+"lat": 49.476447,
+"lon": 10.988719,
+"aufzug": true,
+"rolltreppe": true,
+"id": "2164-5"
+},
+{
+"name": "Rathaus (Süd)",
+"seite": "Süd",
+"strasse": "Ludwig-Erhard-Straße",
+"lat": 49.477156,
+"lon": 10.988573,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2164-6"
+}
+],
+"2130": [
+{
+"name": "Stadthalle (West)",
+"seite": "West",
+"strasse": "Würzburger Straße",
+"lat": 49.480285,
+"lon": 10.98054,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2130-0"
+},
+{
+"name": "Kulturforum, Schlachthof",
+"seite": "Ost",
+"strasse": "Würzburger Straße",
+"lat": 49.480258,
+"lon": 10.982108,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2130-1"
+},
+{
+"name": "Billinganlage, Vacher Straße",
+"seite": "Nordwest",
+"strasse": "Kapellenstraße",
+"lat": 49.48068,
+"lon": 10.980199,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2130-2"
+},
+{
+"name": "Stadthalle (Nord)",
+"seite": "Nord",
+"strasse": "Würzburger Straße",
+"lat": 49.480557,
+"lon": 10.981114,
+"aufzug": true,
+"rolltreppe": false,
+"id": "2130-3"
+},
+{
+"name": "Stadthalle, Altstadt",
+"seite": "Ost",
+"strasse": "Würzburger Straße",
+"lat": 49.48003,
+"lon": 10.982467,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2130-4"
+}
+],
+"1506": [
+{
+"name": "Görlitzer Straße",
+"seite": "Südost",
+"strasse": "Elisabeth-Selbert-Platz",
+"lat": 49.400756,
+"lon": 11.136568,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1506-0"
+},
+{
+"name": "Gemeinschaftshaus, Frankenzentrum",
+"seite": "Nordwest",
+"strasse": "Reichthaler Straße",
+"lat": 49.401777,
+"lon": 11.135251,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1506-1"
+},
+{
+"name": "Aufzug Heinrich-Böll-Platz",
+"seite": "Nordwest",
+"strasse": "Heinrich-Böll-Platz",
+"lat": 49.401545,
+"lon": 11.135568,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1506-2"
+}
+],
+"703": [
+{
+"name": "Willstraße, Saldorferstraße",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.450997,
+"lon": 11.055989,
+"aufzug": false,
+"rolltreppe": false,
+"id": "703-0"
+},
+{
+"name": "Eberhardshofstraße, Obere Kanalstraße",
+"seite": "Südost",
+"strasse": "",
+"lat": 49.450147,
+"lon": 11.057798,
+"aufzug": false,
+"rolltreppe": false,
+"id": "703-1"
+},
+{
+"name": "Dilherrstraße, Versorgungsamt",
+"seite": "Ost",
+"strasse": "Fürther Straße",
+"lat": 49.450312,
+"lon": 11.058073,
+"aufzug": false,
+"rolltreppe": false,
+"id": "703-2"
+},
+{
+"name": "Aufzug Fürther Straße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.450491,
+"lon": 11.057024,
+"aufzug": true,
+"rolltreppe": false,
+"id": "703-3"
+}
+],
+"1180": [
+{
+"name": "Züricher Straße (Ost)",
+"seite": "Ost",
+"strasse": "Züricher Straße",
+"lat": 49.439314,
+"lon": 11.025146,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1180-0"
+},
+{
+"name": "Züricher Straße (West)",
+"seite": "West",
+"strasse": "Züricher Straße",
+"lat": 49.439281,
+"lon": 11.023302,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1180-1"
+},
+{
+"name": "Aufzug Züricher Straße",
+"seite": "Ost",
+"strasse": "Züricher Straße",
+"lat": 49.43929,
+"lon": 11.02386,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1180-2"
+}
+],
+"654": [
+{
+"name": "Dunantstraße, Wallensteinstraße",
+"seite": "Südwest",
+"strasse": "Dunantstraße",
+"lat": 49.438857,
+"lon": 11.035266,
+"aufzug": false,
+"rolltreppe": false,
+"id": "654-0"
+},
+{
+"name": "Konstanzenstraße, Gustav-Adolf-Straße",
+"seite": "Ost",
+"strasse": "Wallensteinstraße",
+"lat": 49.439137,
+"lon": 11.037251,
+"aufzug": false,
+"rolltreppe": true,
+"id": "654-1"
+},
+{
+"name": "Wallensteinstraße",
+"seite": "Südwest",
+"strasse": "Wallensteinstraße",
+"lat": 49.43873,
+"lon": 11.035821,
+"aufzug": false,
+"rolltreppe": false,
+"id": "654-2"
+},
+{
+"name": "Rothenburger Straße, Wallensteinstraße",
+"seite": "Nordost",
+"strasse": "Wallensteinstraße",
+"lat": 49.439521,
+"lon": 11.037283,
+"aufzug": false,
+"rolltreppe": false,
+"id": "654-3"
+},
+{
+"name": "Tillystraße, Wallensteinstraße",
+"seite": "Südwest",
+"strasse": "Wallensteinstraße",
+"lat": 49.438613,
+"lon": 11.035425,
+"aufzug": false,
+"rolltreppe": false,
+"id": "654-4"
+},
+{
+"name": "Aufzug Wallensteinstraße",
+"seite": "West",
+"strasse": "Wallensteinstraße",
+"lat": 49.439006,
+"lon": 11.035775,
+"aufzug": true,
+"rolltreppe": false,
+"id": "654-5"
+}
+],
+"1701": [
+{
+"name": "Ingolstädter Straße (Nordwest)",
+"seite": "Nordwest",
+"strasse": "Ingolstädter Straße",
+"lat": 49.424908,
+"lon": 11.089714,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1701-0"
+},
+{
+"name": "Ingolstädter Straße (Nordwest) 2",
+"seite": "Nordwest",
+"strasse": "Ingolstädter Straße",
+"lat": 49.424518,
+"lon": 11.089233,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1701-1"
+},
+{
+"name": "Nerzstraße",
+"seite": "Nordwest",
+"strasse": "Nerzstraße",
+"lat": 49.424629,
+"lon": 11.089734,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1701-2"
+},
+{
+"name": "Aufzug Brixener Straße",
+"seite": "Nordwest",
+"strasse": "Brixener Straße",
+"lat": 49.424413,
+"lon": 11.089779,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1701-3"
+}
+],
+"510": [
+{
+"name": "Königstorpassage (Ost)",
+"seite": "Ost",
+"strasse": "Königstorpassage",
+"lat": 49.446818,
+"lon": 11.082595,
+"aufzug": false,
+"rolltreppe": true,
+"id": "510-0"
+},
+{
+"name": "Bahnhofstraße",
+"seite": "Nordost",
+"strasse": "Bahnhofstraße",
+"lat": 49.447483,
+"lon": 11.083172,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-1"
+},
+{
+"name": "Eilgutstraße Frauentorgraben (Südwest)",
+"seite": "Südwest",
+"strasse": "Königstorpassage",
+"lat": 49.446206,
+"lon": 11.080275,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-2"
+},
+{
+"name": "Königstorpassage (Südost)",
+"seite": "Südost",
+"strasse": "Königstorpassage",
+"lat": 49.446543,
+"lon": 11.082109,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-3"
+},
+{
+"name": "Königstorpassage (Nordost)",
+"seite": "Nordost",
+"strasse": "Königstorpassage",
+"lat": 49.447331,
+"lon": 11.082819,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-4"
+},
+{
+"name": "Aufzug Königstorpassage (Südwest)",
+"seite": "Südwest",
+"strasse": "Königstorpassage",
+"lat": 49.446379,
+"lon": 11.081366,
+"aufzug": true,
+"rolltreppe": false,
+"id": "510-5"
+},
+{
+"name": "Mittelhalle (Süd)",
+"seite": "Süd",
+"strasse": "Westhalle",
+"lat": 49.44623,
+"lon": 11.08186,
+"aufzug": false,
+"rolltreppe": true,
+"id": "510-6"
+},
+{
+"name": "Aufzug Königstorpassage (Nordost)",
+"seite": "Nordost",
+"strasse": "Königstorpassage",
+"lat": 49.44702,
+"lon": 11.082177,
+"aufzug": true,
+"rolltreppe": false,
+"id": "510-7"
+},
+{
+"name": "Bahnhofsstraße Gleißbühlstraße",
+"seite": "Nordost",
+"strasse": "Bahnhofstraße",
+"lat": 49.447531,
+"lon": 11.083919,
+"aufzug": false,
+"rolltreppe": true,
+"id": "510-8"
+},
+{
+"name": "Königstorpassage (Nordost) 2",
+"seite": "Nordost",
+"strasse": "Königstorpassage",
+"lat": 49.44724,
+"lon": 11.082503,
+"aufzug": false,
+"rolltreppe": true,
+"id": "510-9"
+},
+{
+"name": "Mittelhalle (Süd) 2",
+"seite": "Süd",
+"strasse": "Mittelhalle",
+"lat": 49.445995,
+"lon": 11.081978,
+"aufzug": false,
+"rolltreppe": true,
+"id": "510-10"
+},
+{
+"name": "Eilgutstraße Frauentorgraben (Südwest) 2",
+"seite": "Südwest",
+"strasse": "Königstorpassage",
+"lat": 49.446408,
+"lon": 11.080709,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-11"
+},
+{
+"name": "Bahnhofsplatz",
+"seite": "Ost",
+"strasse": "Bahnhofsplatz",
+"lat": 49.447159,
+"lon": 11.083455,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-12"
+},
+{
+"name": "Königstorpassage (Nord)",
+"seite": "Nord",
+"strasse": "Königstorpassage",
+"lat": 49.447054,
+"lon": 11.081723,
+"aufzug": false,
+"rolltreppe": false,
+"id": "510-13"
+}
+],
+"1324": [
+{
+"name": "Äußere Bayreuther Straße (Südwest)",
+"seite": "Südwest",
+"strasse": "Äußere Bayreuther Straße",
+"lat": 49.478011,
+"lon": 11.109341,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1324-0"
+},
+{
+"name": "Äußere Bayreuther Straße, Jungermannstraße",
+"seite": "Nordost",
+"strasse": "Äußere Bayreuther Straße",
+"lat": 49.479186,
+"lon": 11.110637,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1324-1"
+},
+{
+"name": "Äußere Bayreuther Straße (Südwest) 2",
+"seite": "Südwest",
+"strasse": "Äußere Bayreuther Straße",
+"lat": 49.478318,
+"lon": 11.109745,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1324-2"
+},
+{
+"name": "Äußere Bayreuther Straße, Pirnaer Straße",
+"seite": "Nordost",
+"strasse": "Äußere Bayreuther Straße",
+"lat": 49.478979,
+"lon": 11.110907,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1324-3"
+}
+],
+"1902": [
+{
+"name": "Zweibrückener Straße, Rottweiler Straße",
+"seite": "Süd",
+"strasse": "Schweinauer Hauptstraße",
+"lat": 49.428058,
+"lon": 11.04342,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1902-0"
+},
+{
+"name": "Adalbertstraße, Alfonsstraße",
+"seite": "Südwest",
+"strasse": "Adalbertstraße",
+"lat": 49.428223,
+"lon": 11.042952,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1902-1"
+},
+{
+"name": "Nopitschstraße, Holzwiesenstraße",
+"seite": "Nordost",
+"strasse": "Nopitschstraße",
+"lat": 49.43007,
+"lon": 11.045184,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1902-2"
+},
+{
+"name": "Gustav-Adolf-Straße (Nord)",
+"seite": "Nord",
+"strasse": "Gustav-Adolf-Straße",
+"lat": 49.430033,
+"lon": 11.044253,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1902-3"
+},
+{
+"name": "Friesenstraße",
+"seite": "Nordost",
+"strasse": "Schweinauer Hauptstraße",
+"lat": 49.42938,
+"lon": 11.044435,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1902-4"
+},
+{
+"name": "Gustav-Adolf-Straße (Nord) 2",
+"seite": "Nord",
+"strasse": "Gustav-Adolf-Straße",
+"lat": 49.429707,
+"lon": 11.044168,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1902-5"
+},
+{
+"name": "Nopitschstraße, Turnerheimstraße",
+"seite": "Nordost",
+"strasse": "Nopitschstraße",
+"lat": 49.429768,
+"lon": 11.045022,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1902-6"
+},
+{
+"name": "Aufzug Schweinauer Hauptstraße",
+"seite": "Nordost",
+"strasse": "Schweinauer Hauptstraße",
+"lat": 49.429055,
+"lon": 11.043995,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1902-7"
+}
+],
+"2171": [
+{
+"name": "Südstadt, Karolinenstraße",
+"seite": "Südost",
+"strasse": "Jakobinenstraße",
+"lat": 49.467963,
+"lon": 11.001338,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2171-0"
+},
+{
+"name": "Zähstraße, Hornschuchpromenade",
+"seite": "Ost",
+"strasse": "Jakobinenstraße",
+"lat": 49.468183,
+"lon": 11.001571,
+"aufzug": false,
+"rolltreppe": false,
+"id": "2171-1"
+},
+{
+"name": "Pickertstraße, Gebhardtstraße",
+"seite": "Nordwest",
+"strasse": "Pickertstraße",
+"lat": 49.468665,
+"lon": 10.99965,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2171-2"
+},
+{
+"name": "Königwarterstraße, Jakobinenstraße",
+"seite": "Nordost",
+"strasse": "Jakobinenstraße",
+"lat": 49.468355,
+"lon": 11.001141,
+"aufzug": false,
+"rolltreppe": true,
+"id": "2171-3"
+}
+],
+"250": [
+{
+"name": "Uhlandstraße, Kaulbachstraße",
+"seite": "West",
+"strasse": "Schweppermannstraße",
+"lat": 49.463307,
+"lon": 11.077745,
+"aufzug": true,
+"rolltreppe": true,
+"id": "250-0"
+},
+{
+"name": "Rollnerstraße, Friedrichstraße",
+"seite": "Ost",
+"strasse": "Schweppermannstraße",
+"lat": 49.463359,
+"lon": 11.079648,
+"aufzug": false,
+"rolltreppe": true,
+"id": "250-1"
+},
+{
+"name": "Aufzug Schweppermannstraße",
+"seite": "West",
+"strasse": "Schweppermannstraße",
+"lat": 49.463316,
+"lon": 11.078345,
+"aufzug": true,
+"rolltreppe": false,
+"id": "250-2"
+}
+],
+"258": [
+{
+"name": "Heimerichstraße (West)",
+"seite": "West",
+"strasse": "Heimerichstraße",
+"lat": 49.464072,
+"lon": 11.063509,
+"aufzug": false,
+"rolltreppe": true,
+"id": "258-0"
+},
+{
+"name": "Aufzug Heimerichstraße",
+"seite": "West",
+"strasse": "Heimerichstraße",
+"lat": 49.464043,
+"lon": 11.063878,
+"aufzug": true,
+"rolltreppe": false,
+"id": "258-1"
+},
+{
+"name": "Heimerichstraße (Ost)",
+"seite": "Ost",
+"strasse": "Heimerichstraße",
+"lat": 49.46392,
+"lon": 11.065369,
+"aufzug": false,
+"rolltreppe": true,
+"id": "258-2"
+}
+],
+"1567": [
+{
+"name": "Breslauer Straße",
+"seite": "Nordwest",
+"strasse": "Breslauer Straße",
+"lat": 49.405152,
+"lon": 11.131441,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1567-0"
+},
+{
+"name": "Frankenzentrum",
+"seite": "Südost",
+"strasse": "Oppelner Straße",
+"lat": 49.404332,
+"lon": 11.132281,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1567-1"
+},
+{
+"name": "Aufzug",
+"seite": "Südost",
+"strasse": "",
+"lat": 49.40462,
+"lon": 11.131953,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1567-2"
+}
+],
+"1503": [
+{
+"name": "Otto-Bärnreuther-Straße (Nordwest)",
+"seite": "Nordwest",
+"strasse": "Otto-Bärnreuther-Straße",
+"lat": 49.412899,
+"lon": 11.120885,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1503-0"
+},
+{
+"name": "Otto-Bärnreuther-Straße (Südost)",
+"seite": "Südost",
+"strasse": "Otto-Bärnreuther-Straße",
+"lat": 49.411963,
+"lon": 11.122029,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1503-1"
+}
+],
+"1507": [],
+"511": [
+{
+"name": "Königstraße (Südost)",
+"seite": "Südost",
+"strasse": "Königstraße",
+"lat": 49.450219,
+"lon": 11.078642,
+"aufzug": false,
+"rolltreppe": true,
+"id": "511-0"
+},
+{
+"name": "Königstraße (Nord)",
+"seite": "Nord",
+"strasse": "Königstraße",
+"lat": 49.452034,
+"lon": 11.077722,
+"aufzug": false,
+"rolltreppe": false,
+"id": "511-1"
+},
+{
+"name": "Königstraße (Südost) 2",
+"seite": "Südost",
+"strasse": "Königstraße",
+"lat": 49.450594,
+"lon": 11.078393,
+"aufzug": false,
+"rolltreppe": false,
+"id": "511-2"
+},
+{
+"name": "Kaiserstraße Hauptmarkt",
+"seite": "Nordwest",
+"strasse": "Stangengäßchen",
+"lat": 49.452326,
+"lon": 11.076441,
+"aufzug": true,
+"rolltreppe": false,
+"id": "511-3"
+},
+{
+"name": "Königstraße (Nord) 2",
+"seite": "Nord",
+"strasse": "Königstraße",
+"lat": 49.451675,
+"lon": 11.077782,
+"aufzug": false,
+"rolltreppe": false,
+"id": "511-4"
+},
+{
+"name": "Karolinenstraße",
+"seite": "West",
+"strasse": "Karolinenstraße",
+"lat": 49.451035,
+"lon": 11.076834,
+"aufzug": false,
+"rolltreppe": true,
+"id": "511-5"
+},
+{
+"name": "Stangengäßchen",
+"seite": "Nordwest",
+"strasse": "Stangengäßchen",
+"lat": 49.452111,
+"lon": 11.076387,
+"aufzug": false,
+"rolltreppe": false,
+"id": "511-6"
+}
+],
+"503": [
+{
+"name": "Maffeiplatz, Halskestraße",
+"seite": "Südwest",
+"strasse": "Maffeiplatz",
+"lat": 49.436182,
+"lon": 11.083011,
+"aufzug": false,
+"rolltreppe": false,
+"id": "503-0"
+},
+{
+"name": "Gudrunstraße, Lutherplatz",
+"seite": "Südost",
+"strasse": "Ritter-von-Schuh-Platz",
+"lat": 49.436305,
+"lon": 11.083816,
+"aufzug": false,
+"rolltreppe": false,
+"id": "503-1"
+},
+{
+"name": "Maffeiplatz (West)",
+"seite": "West",
+"strasse": "Maffeiplatz",
+"lat": 49.436298,
+"lon": 11.082363,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-2"
+},
+{
+"name": "Zwinglistraße, Lutherplatz (Südost)",
+"seite": "Südost",
+"strasse": "Pillenreuther Straße",
+"lat": 49.435026,
+"lon": 11.084801,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-3"
+},
+{
+"name": "Siemensstraße, Halskestraße",
+"seite": "Süd",
+"strasse": "Siemensstraße",
+"lat": 49.434906,
+"lon": 11.084091,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-4"
+},
+{
+"name": "Zwinglistraße, Lutherplatz (Südost) 2",
+"seite": "Südost",
+"strasse": "Zwinglistraße",
+"lat": 49.43504,
+"lon": 11.085105,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-5"
+},
+{
+"name": "Gudrunstraße (Nordost)",
+"seite": "Nordost",
+"strasse": "Pillenreuther Straße",
+"lat": 49.436611,
+"lon": 11.083348,
+"aufzug": false,
+"rolltreppe": false,
+"id": "503-6"
+},
+{
+"name": "Gudrunstraße (Ost)",
+"seite": "Ost",
+"strasse": "Ritter-von-Schuh-Platz",
+"lat": 49.436595,
+"lon": 11.0841,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-7"
+},
+{
+"name": "Maffeiplatz (West) 2",
+"seite": "West",
+"strasse": "Maffeiplatz",
+"lat": 49.436528,
+"lon": 11.082875,
+"aufzug": false,
+"rolltreppe": false,
+"id": "503-8"
+},
+{
+"name": "Aufzug Pillenreuther Straße",
+"seite": "Südost",
+"strasse": "Pillenreuther Straße",
+"lat": 49.435266,
+"lon": 11.084354,
+"aufzug": true,
+"rolltreppe": false,
+"id": "503-9"
+}
+],
+"331": [
+{
+"name": "Rollnerstraße, Schlüsselfelderstraße",
+"seite": "West",
+"strasse": "",
+"lat": 49.463333,
+"lon": 11.08395,
+"aufzug": false,
+"rolltreppe": true,
+"id": "331-0"
+},
+{
+"name": "Parkstraße, Löbleinstraße",
+"seite": "Ost",
+"strasse": "Goethestraße",
+"lat": 49.463315,
+"lon": 11.085886,
+"aufzug": false,
+"rolltreppe": true,
+"id": "331-1"
+},
+{
+"name": "Aufzug Goethestraße",
+"seite": "Ost",
+"strasse": "Goethestraße",
+"lat": 49.46332,
+"lon": 11.085327,
+"aufzug": true,
+"rolltreppe": false,
+"id": "331-2"
+}
+],
+"701": [
+{
+"name": "Beckstraße, Feuerleinstraße",
+"seite": "Südost",
+"strasse": "Beckstraße",
+"lat": 49.454892,
+"lon": 11.043162,
+"aufzug": false,
+"rolltreppe": false,
+"id": "701-0"
+},
+{
+"name": "Lenaustraße, Maximilianstraße",
+"seite": "West",
+"strasse": "Maximilianstraße",
+"lat": 49.455551,
+"lon": 11.040847,
+"aufzug": false,
+"rolltreppe": false,
+"id": "701-1"
+},
+{
+"name": "Maximilianstraße, Memorium",
+"seite": "Ost",
+"strasse": "Fürther Straße",
+"lat": 49.455123,
+"lon": 11.043302,
+"aufzug": false,
+"rolltreppe": false,
+"id": "701-2"
+},
+{
+"name": "Murrstraße",
+"seite": "West",
+"strasse": "Fürther Straße",
+"lat": 49.455425,
+"lon": 11.041511,
+"aufzug": false,
+"rolltreppe": false,
+"id": "701-3"
+},
+{
+"name": "Maximilianstraße",
+"seite": "Nordwest",
+"strasse": "Maximilianstraße",
+"lat": 49.455842,
+"lon": 11.041651,
+"aufzug": false,
+"rolltreppe": true,
+"id": "701-4"
+},
+{
+"name": "Fahrradstraße, Maximilianstraße",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.455892,
+"lon": 11.040952,
+"aufzug": false,
+"rolltreppe": false,
+"id": "701-5"
+},
+{
+"name": "Aufzug Fürther Straße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.455118,
+"lon": 11.042631,
+"aufzug": true,
+"rolltreppe": false,
+"id": "701-6"
+}
+],
+"1502": [
+{
+"name": "Langwasser",
+"seite": "West",
+"strasse": "Otto-Bärnreuther-Straße",
+"lat": 49.415847,
+"lon": 11.113823,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1502-0"
+}
+],
+"1102": [
+{
+"name": "Sigmundstraße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.461193,
+"lon": 11.023393,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1102-0"
+},
+{
+"name": "Fürther Straße, Adolf-Braun-Straße",
+"seite": "Nordwest",
+"strasse": "Fürther Straße",
+"lat": 49.462157,
+"lon": 11.021996,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1102-1"
+},
+{
+"name": "Tassilostraße, Fürther Straße",
+"seite": "West",
+"strasse": "Tassilostraße",
+"lat": 49.461839,
+"lon": 11.021484,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1102-2"
+},
+{
+"name": "Fürther Straße",
+"seite": "Südost",
+"strasse": "Fürther Straße",
+"lat": 49.461427,
+"lon": 11.023195,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1102-3"
+}
+],
+"1335": [
+{
+"name": "Leipziger Platz (Nord)",
+"seite": "Nord",
+"strasse": "Leipziger Platz",
+"lat": 49.472561,
+"lon": 11.104253,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1335-0"
+},
+{
+"name": "Mommsenstraße",
+"seite": "Südwest",
+"strasse": "Leipziger Platz",
+"lat": 49.471578,
+"lon": 11.104072,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1335-1"
+},
+{
+"name": "Leipziger Platz (Süd)",
+"seite": "Süd",
+"strasse": "Elbinger Straße",
+"lat": 49.471444,
+"lon": 11.104703,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1335-2"
+},
+{
+"name": "Leipziger Platz (Ost)",
+"seite": "Ost",
+"strasse": "Leipziger Platz",
+"lat": 49.472181,
+"lon": 11.104552,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1335-3"
+},
+{
+"name": "Bessemerstraße Kieslingstraße",
+"seite": "Nord",
+"strasse": "Leipziger Platz",
+"lat": 49.472779,
+"lon": 11.104542,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1335-4"
+},
+{
+"name": "Aufzug Leipziger Platz",
+"seite": "Nord",
+"strasse": "Leipziger Platz",
+"lat": 49.472437,
+"lon": 11.104517,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1335-5"
+},
+{
+"name": "Am Nordostbahnhof",
+"seite": "Nord",
+"strasse": "Am Nordostbahnhof",
+"lat": 49.473608,
+"lon": 11.104826,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1335-6"
+},
+{
+"name": "Leipziger Platz (Nordost)",
+"seite": "Nordost",
+"strasse": "Leipziger Platz",
+"lat": 49.47273,
+"lon": 11.104849,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1335-7"
+}
+],
+"275": [
+{
+"name": "Aufzug Bielefelder Straße",
+"seite": "West",
+"strasse": "Bielefelder Straße",
+"lat": 49.46582,
+"lon": 11.054491,
+"aufzug": true,
+"rolltreppe": false,
+"id": "275-0"
+},
+{
+"name": "Aufzug Nordwestring",
+"seite": "Südost",
+"strasse": "Nordwestring",
+"lat": 49.465587,
+"lon": 11.055432,
+"aufzug": true,
+"rolltreppe": false,
+"id": "275-1"
+},
+{
+"name": "Bielefelder Straße",
+"seite": "West",
+"strasse": "Bielefelder Straße",
+"lat": 49.465932,
+"lon": 11.054061,
+"aufzug": true,
+"rolltreppe": true,
+"id": "275-2"
+},
+{
+"name": "Heimerichstraße",
+"seite": "Ost",
+"strasse": "Heimerichstraße",
+"lat": 49.46548,
+"lon": 11.055905,
+"aufzug": false,
+"rolltreppe": true,
+"id": "275-3"
+}
+],
+"505": [
+{
+"name": "Germanisches Nationalmuseum",
+"seite": "Nord",
+"strasse": "Kartäusertor",
+"lat": 49.44711,
+"lon": 11.074944,
+"aufzug": true,
+"rolltreppe": false,
+"id": "505-0"
+},
+{
+"name": "Opernhaus Schauspielhaus",
+"seite": "Ost",
+"strasse": "Richard-Wagner-Platz",
+"lat": 49.44656,
+"lon": 11.07646,
+"aufzug": false,
+"rolltreppe": true,
+"id": "505-1"
+},
+{
+"name": "Verkehrsmuseum",
+"seite": "West",
+"strasse": "Weidenkellerstraße",
+"lat": 49.44666,
+"lon": 11.073652,
+"aufzug": true,
+"rolltreppe": true,
+"id": "505-2"
+},
+{
+"name": "Staatstheater Nürnberg",
+"seite": "Südost",
+"strasse": "Richard-Wagner-Platz",
+"lat": 49.446565,
+"lon": 11.075875,
+"aufzug": false,
+"rolltreppe": false,
+"id": "505-3"
+},
+{
+"name": "Frauentorgraben (Ost)",
+"seite": "Ost",
+"strasse": "Frauentorgraben",
+"lat": 49.446856,
+"lon": 11.076148,
+"aufzug": true,
+"rolltreppe": false,
+"id": "505-4"
+},
+{
+"name": "Frauentorgraben (West)",
+"seite": "West",
+"strasse": "Frauentorgraben",
+"lat": 49.447033,
+"lon": 11.073718,
+"aufzug": true,
+"rolltreppe": false,
+"id": "505-5"
+}
+],
+"704": [
+{
+"name": "Rothenburger Straße Südliche Fürther Straße",
+"seite": "West",
+"strasse": "Rothenburger Straße",
+"lat": 49.448189,
+"lon": 11.06329,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-0"
+},
+{
+"name": "Zufuhrstraße Frauentorgraben",
+"seite": "Südost",
+"strasse": "Gostenhofer Hauptstraße",
+"lat": 49.447396,
+"lon": 11.06588,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-1"
+},
+{
+"name": "Fürther Tor",
+"seite": "Ost",
+"strasse": "Am Plärrer",
+"lat": 49.448593,
+"lon": 11.066088,
+"aufzug": true,
+"rolltreppe": false,
+"id": "704-2"
+},
+{
+"name": "Aufzug Am Plärrer",
+"seite": "Ost",
+"strasse": "Am Plärrer",
+"lat": 49.448217,
+"lon": 11.065544,
+"aufzug": true,
+"rolltreppe": true,
+"id": "704-3"
+},
+{
+"name": "Gostenhofer Hauptstraße",
+"seite": "Südost",
+"strasse": "Gostenhofer Hauptstraße",
+"lat": 49.44754,
+"lon": 11.065386,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-4"
+},
+{
+"name": "Dennerstraße Nördliche Fürther Straße",
+"seite": "Nordwest",
+"strasse": "Am Plärrer",
+"lat": 49.448696,
+"lon": 11.063671,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-5"
+},
+{
+"name": "Am Plärrer (Nord)",
+"seite": "Nord",
+"strasse": "Am Plärrer",
+"lat": 49.448478,
+"lon": 11.064559,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-6"
+},
+{
+"name": "Rothenburger Straße Elsnerstraße",
+"seite": "Südwest",
+"strasse": "Rothenburger Straße",
+"lat": 49.448046,
+"lon": 11.063721,
+"aufzug": false,
+"rolltreppe": false,
+"id": "704-7"
+},
+{
+"name": "Am Plärrer (Südost)",
+"seite": "Südost",
+"strasse": "Am Plärrer",
+"lat": 49.447937,
+"lon": 11.065297,
+"aufzug": false,
+"rolltreppe": true,
+"id": "704-8"
+}
+],
+"332": [
+{
+"name": "Äußere Laufer Gasse Altstadt",
+"seite": "Nordwest",
+"strasse": "Rathenauplatz",
+"lat": 49.457469,
+"lon": 11.088785,
+"aufzug": true,
+"rolltreppe": false,
+"id": "332-0"
+},
+{
+"name": "Bayreuther Straße (Nord)",
+"seite": "Nord",
+"strasse": "Bayreuther Straße",
+"lat": 49.457905,
+"lon": 11.088882,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-1"
+},
+{
+"name": "Universität Maxtorgraben",
+"seite": "Nordwest",
+"strasse": "Laufertorzwinger",
+"lat": 49.457691,
+"lon": 11.088602,
+"aufzug": true,
+"rolltreppe": false,
+"id": "332-2"
+},
+{
+"name": "Rathenauplatz",
+"seite": "Nordwest",
+"strasse": "Rathenauplatz",
+"lat": 49.457287,
+"lon": 11.089096,
+"aufzug": false,
+"rolltreppe": true,
+"id": "332-3"
+},
+{
+"name": "Laufertorgraben Äußere Cramer-Klett-Straße",
+"seite": "Süd",
+"strasse": "Rathenauplatz",
+"lat": 49.456095,
+"lon": 11.089608,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-4"
+},
+{
+"name": "Altstadt Innere Cramer-Klett-Straße",
+"seite": "Südwest",
+"strasse": "Rathenauplatz",
+"lat": 49.455974,
+"lon": 11.08882,
+"aufzug": true,
+"rolltreppe": false,
+"id": "332-5"
+},
+{
+"name": "Sulzbacher Straße (Nord)",
+"seite": "Nord",
+"strasse": "Sulzbacher Straße",
+"lat": 49.457785,
+"lon": 11.089876,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-6"
+},
+{
+"name": "Rathenauplatz Nunnenbeckstraße (Süd)",
+"seite": "Süd",
+"strasse": "Rathenauplatz",
+"lat": 49.456345,
+"lon": 11.089614,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-7"
+},
+{
+"name": "Rathenauplatz Nunnenbeckstraße (Nord)",
+"seite": "Nord",
+"strasse": "Rathenauplatz",
+"lat": 49.457332,
+"lon": 11.089639,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-8"
+},
+{
+"name": "Aufzug Rathenauplatz",
+"seite": "Nord",
+"strasse": "Rathenauplatz",
+"lat": 49.45702,
+"lon": 11.089488,
+"aufzug": true,
+"rolltreppe": false,
+"id": "332-9"
+},
+{
+"name": "Bayreuther Straße (Nord) 2",
+"seite": "Nord",
+"strasse": "Rathenauplatz",
+"lat": 49.457963,
+"lon": 11.0896,
+"aufzug": false,
+"rolltreppe": false,
+"id": "332-10"
+},
+{
+"name": "Sulzbacher Straße (Nordost)",
+"seite": "Nordost",
+"strasse": "Sulzbacher Straße",
+"lat": 49.457479,
+"lon": 11.089917,
+"aufzug": false,
+"rolltreppe": true,
+"id": "332-11"
+}
+],
+"340": [
+{
+"name": "Rennweg Martin-Richter-Straße",
+"seite": "Nordost",
+"strasse": "Rennweg",
+"lat": 49.461354,
+"lon": 11.094316,
+"aufzug": false,
+"rolltreppe": true,
+"id": "340-0"
+},
+{
+"name": "Aufzug Rennweg",
+"seite": "Südwest",
+"strasse": "Rennweg",
+"lat": 49.460924,
+"lon": 11.093186,
+"aufzug": true,
+"rolltreppe": false,
+"id": "340-1"
+},
+{
+"name": "Bayreuther Straße Ludwig-Feuerbach-Straße",
+"seite": "Südwest",
+"strasse": "Ludwig-Feuerbach-Straße",
+"lat": 49.460705,
+"lon": 11.092623,
+"aufzug": false,
+"rolltreppe": false,
+"id": "340-2"
+}
+],
+"710": [
+{
+"name": "Schlachthofstraße",
+"seite": "Süd",
+"strasse": "Schlachthofstraße",
+"lat": 49.444052,
+"lon": 11.05512,
+"aufzug": false,
+"rolltreppe": true,
+"id": "710-0"
+},
+{
+"name": "Knauerstraße, Spenglerstraße",
+"seite": "Nordost",
+"strasse": "Frankenschnellweg",
+"lat": 49.445072,
+"lon": 11.056004,
+"aufzug": false,
+"rolltreppe": true,
+"id": "710-1"
+},
+{
+"name": "Holzschuherstraße",
+"seite": "Südwest",
+"strasse": "Rothenburger Straße",
+"lat": 49.444054,
+"lon": 11.054053,
+"aufzug": false,
+"rolltreppe": false,
+"id": "710-2"
+},
+{
+"name": "Villa Leon, Schlachthofstraße",
+"seite": "Südwest",
+"strasse": "Rothenburger Straße",
+"lat": 49.44383,
+"lon": 11.054268,
+"aufzug": false,
+"rolltreppe": true,
+"id": "710-3"
+},
+{
+"name": "Aufzug Rothenburger Straße",
+"seite": "Südwest",
+"strasse": "Rothenburger Straße",
+"lat": 49.444234,
+"lon": 11.054832,
+"aufzug": true,
+"rolltreppe": false,
+"id": "710-4"
+}
+],
+"1970": [
+{
+"name": "Schnelldorfer Straße, Jochsberger Straße (West)",
+"seite": "West",
+"strasse": "Ansbacher Straße",
+"lat": 49.42096,
+"lon": 11.030054,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1970-0"
+},
+{
+"name": "Röthenbacher Hauptstraße, Neuendettelsauer Straße",
+"seite": "Südost",
+"strasse": "Röthenbacher Hauptstraße",
+"lat": 49.420368,
+"lon": 11.032658,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1970-1"
+},
+{
+"name": "Ansbacher Straße",
+"seite": "Ost",
+"strasse": "Ansbacher Straße",
+"lat": 49.420458,
+"lon": 11.033157,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1970-2"
+},
+{
+"name": "Dombühler Straße, Insinger Straße",
+"seite": "Ost",
+"strasse": "Dombühler Straße",
+"lat": 49.420996,
+"lon": 11.033002,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1970-3"
+},
+{
+"name": "Dombühler Straße, Herriedener Straße (Nordost)",
+"seite": "Nordost",
+"strasse": "Dombühler Straße",
+"lat": 49.421165,
+"lon": 11.032422,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1970-4"
+},
+{
+"name": "Dombühler Straße, Herriedener Straße (Nordost) 2",
+"seite": "Nordost",
+"strasse": "Ansbacher Straße",
+"lat": 49.421149,
+"lon": 11.031987,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1970-5"
+},
+{
+"name": "Aufzug Ansbacher Straße",
+"seite": "Ost",
+"strasse": "Ansbacher Straße",
+"lat": 49.420897,
+"lon": 11.031952,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1970-6"
+},
+{
+"name": "Petersauracher Straße, Neuendettelsauer Straße",
+"seite": "West",
+"strasse": "Ansbacher Straße",
+"lat": 49.420579,
+"lon": 11.030348,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1970-7"
+},
+{
+"name": "Schnelldorfer Straße, Jochsberger Straße (West) 2",
+"seite": "West",
+"strasse": "Ansbacher Straße",
+"lat": 49.421216,
+"lon": 11.030237,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1970-8"
+}
+],
+"1504": [
+{
+"name": "Lina-Ammon-Straße, Annette-Kolb-Straße",
+"seite": "Südost",
+"strasse": "Otto-Bärnreuther-Straße",
+"lat": 49.408319,
+"lon": 11.12713,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1504-0"
+}
+],
+"341": [
+{
+"name": "Am Messehaus Wieselerstraße",
+"seite": "Südwest",
+"strasse": "Am Messehaus",
+"lat": 49.464043,
+"lon": 11.100022,
+"aufzug": false,
+"rolltreppe": true,
+"id": "341-0"
+},
+{
+"name": "Am Messehaus Welserstraße (Nord)",
+"seite": "Nord",
+"strasse": "Welserstraße",
+"lat": 49.465275,
+"lon": 11.100467,
+"aufzug": false,
+"rolltreppe": false,
+"id": "341-1"
+},
+{
+"name": "Am Messehaus Welserstraße (Nordost)",
+"seite": "Nordost",
+"strasse": "Welserstraße",
+"lat": 49.465044,
+"lon": 11.100932,
+"aufzug": false,
+"rolltreppe": false,
+"id": "341-2"
+},
+{
+"name": "Welserstraße Elbinger Straße (Nord)",
+"seite": "Nord",
+"strasse": "Elbinger Straße",
+"lat": 49.46565,
+"lon": 11.100845,
+"aufzug": false,
+"rolltreppe": false,
+"id": "341-3"
+},
+{
+"name": "Welserstraße Elbinger Straße (Nordost)",
+"seite": "Nordost",
+"strasse": "Welserstraße",
+"lat": 49.465364,
+"lon": 11.100998,
+"aufzug": false,
+"rolltreppe": false,
+"id": "341-4"
+},
+{
+"name": "Aufzug Am Messehaus",
+"seite": "Nord",
+"strasse": "Am Messehaus",
+"lat": 49.464836,
+"lon": 11.100522,
+"aufzug": true,
+"rolltreppe": false,
+"id": "341-5"
+}
+],
+"601": [
+{
+"name": "Eisenstraße, Elisenstraße",
+"seite": "Südwest",
+"strasse": "Schweinauer Hauptstraße",
+"lat": 49.433771,
+"lon": 11.047588,
+"aufzug": false,
+"rolltreppe": true,
+"id": "601-0"
+},
+{
+"name": "Schweinauer Hauptstraße",
+"seite": "Nordost",
+"strasse": "Schweinauer Hauptstraße",
+"lat": 49.43463,
+"lon": 11.048684,
+"aufzug": true,
+"rolltreppe": false,
+"id": "601-1"
+},
+{
+"name": "Olgastraße, Holbeinstraße",
+"seite": "Nordost",
+"strasse": "Holbeinstraße",
+"lat": 49.434741,
+"lon": 11.049243,
+"aufzug": false,
+"rolltreppe": false,
+"id": "601-2"
+},
+{
+"name": "Eisenstraße (West)",
+"seite": "West",
+"strasse": "Eisenstraße",
+"lat": 49.434522,
+"lon": 11.046482,
+"aufzug": false,
+"rolltreppe": false,
+"id": "601-3"
+},
+{
+"name": "Eisenstraße (West) 2",
+"seite": "West",
+"strasse": "Eisenstraße",
+"lat": 49.434724,
+"lon": 11.046258,
+"aufzug": false,
+"rolltreppe": false,
+"id": "601-4"
+}
+],
+"602": [
+{
+"name": "Leopoldstraße, Orffstraße",
+"seite": "Süd",
+"strasse": "Schweinauer Straße",
+"lat": 49.438188,
+"lon": 11.049772,
+"aufzug": false,
+"rolltreppe": true,
+"id": "602-0"
+},
+{
+"name": "Georgstraße, Grünstraße",
+"seite": "Nord",
+"strasse": "Schweinauer Straße",
+"lat": 49.439365,
+"lon": 11.050097,
+"aufzug": true,
+"rolltreppe": true,
+"id": "602-1"
+},
+{
+"name": "Aufzug Schweinauer Straße",
+"seite": "Süd",
+"strasse": "Schweinauer Straße",
+"lat": 49.438578,
+"lon": 11.049886,
+"aufzug": true,
+"rolltreppe": false,
+"id": "602-2"
+}
+],
+"1101": [
+{
+"name": "Nürnberger Straße (Nord)",
+"seite": "Nord",
+"strasse": "Nürnberger Straße",
+"lat": 49.46573,
+"lon": 11.010875,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1101-0"
+},
+{
+"name": "Höfener Straße",
+"seite": "Ost",
+"strasse": "Höfener Straße",
+"lat": 49.465212,
+"lon": 11.011914,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1101-1"
+},
+{
+"name": "Nürnberger Straße (Ost)",
+"seite": "Ost",
+"strasse": "Ludwig-Quellen-Straße",
+"lat": 49.46561,
+"lon": 11.012454,
+"aufzug": false,
+"rolltreppe": false,
+"id": "1101-2"
+}
+],
+"1120": [
+{
+"name": "Aufzug Rothenburger Straße",
+"seite": "Nordost",
+"strasse": "Rothenburger Straße",
+"lat": 49.441998,
+"lon": 11.044038,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1120-0"
+},
+{
+"name": "Blücherstraße, Ossietzkystraße",
+"seite": "Südwest",
+"strasse": "Rothenburger Straße",
+"lat": 49.441495,
+"lon": 11.042699,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1120-1"
+},
+{
+"name": "Bertha-von-Suttner-Straße, Rothenburger Straße",
+"seite": "Nordost",
+"strasse": "Rothenburger Straße",
+"lat": 49.442133,
+"lon": 11.044384,
+"aufzug": true,
+"rolltreppe": true,
+"id": "1120-2"
+}
+],
+"101": [
+{
+"name": "Ludwigstraße",
+"seite": "Südwest",
+"strasse": "Jakobsplatz",
+"lat": 49.449694,
+"lon": 11.069083,
+"aufzug": false,
+"rolltreppe": true,
+"id": "101-0"
+},
+{
+"name": "Breite Gasse",
+"seite": "Nordost",
+"strasse": "Ludwigsplatz",
+"lat": 49.45033,
+"lon": 11.070829,
+"aufzug": true,
+"rolltreppe": true,
+"id": "101-1"
+}
+],
+"333": [
+{
+"name": "Altstadt Hübner Tor",
+"seite": "Nord",
+"strasse": "Hübnerstor",
+"lat": 49.453509,
+"lon": 11.08667,
+"aufzug": true,
+"rolltreppe": false,
+"id": "333-0"
+},
+{
+"name": "Aufzug Franz-Josef-Strauß-Brücke",
+"seite": "Süd",
+"strasse": "Franz-Josef-Strauß-Brücke",
+"lat": 49.452474,
+"lon": 11.086832,
+"aufzug": true,
+"rolltreppe": false,
+"id": "333-1"
+},
+{
+"name": "Prinzregentenufer",
+"seite": "Nordost",
+"strasse": "Prinzregentenufer",
+"lat": 49.452866,
+"lon": 11.08708,
+"aufzug": true,
+"rolltreppe": false,
+"id": "333-2"
+},
+{
+"name": "Laufertorgraben",
+"seite": "Nord",
+"strasse": "Laufertorgraben",
+"lat": 49.453245,
+"lon": 11.087067,
+"aufzug": false,
+"rolltreppe": false,
+"id": "333-3"
+},
+{
+"name": "Technische Hochschule Prinzregentenufer",
+"seite": "Nordost",
+"strasse": "Prinzregentenufer",
+"lat": 49.453022,
+"lon": 11.087446,
+"aufzug": false,
+"rolltreppe": true,
+"id": "333-4"
+},
+{
+"name": "Marientorgraben Gleisbühlstraße",
+"seite": "Süd",
+"strasse": "Franz-Josef-Strauß-Brücke",
+"lat": 49.452021,
+"lon": 11.086682,
+"aufzug": true,
+"rolltreppe": false,
+"id": "333-5"
+}
+],
+"1320": [
+{
+"name": "Rathsbergstraße, Otto-Lilienthal-Straße",
+"seite": "Nord",
+"strasse": "Ziegelsteinstraße",
+"lat": 49.485728,
+"lon": 11.104871,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1320-0"
+},
+{
+"name": "Fritz-Munkert-Platz, Bierweg/Marienbergstraße",
+"seite": "Südost",
+"strasse": "Fritz-Munkert-Platz",
+"lat": 49.48457,
+"lon": 11.105566,
+"aufzug": false,
+"rolltreppe": true,
+"id": "1320-1"
+},
+{
+"name": "Aufzug Fritz-Munkert-Platz",
+"seite": "Süd",
+"strasse": "Fritz-Munkert-Platz",
+"lat": 49.484989,
+"lon": 11.105277,
+"aufzug": true,
+"rolltreppe": false,
+"id": "1320-2"
+}
+]
+}
