@@ -10,3 +10,9 @@ pdfs/
 
 # Vercel-Projektverknuepfung, gehoert nicht ins Repo
 .vercel/
+.vercel
+.env*
+
+# Lokale Zusaetze, die nicht ins Repo gehoeren
+api/
+src/lib/lokal/

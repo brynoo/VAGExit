@@ -224,6 +224,10 @@ button.zeile:active { background: var(--grund); }
 .drei-schalter.aus { background: var(--tinte); color: #fff; }
 @media (max-width: 420px) { .drei-tafel { width: min(205px, calc(100% - 20px)); } .drei-schalter { top: auto; bottom: 62px; } }
 
+.fuss-link { color: var(--u-blau); text-decoration: underline; font-size: inherit; padding: 2px 0; }
+.datenschutz { display: grid; gap: 12px; font-size: 0.9rem; line-height: 1.55; color: var(--tinte-2); max-width: 62ch; }
+.datenschutz strong { color: var(--tinte); font-weight: 600; }
+
 /* Ladezustand */
 .skelett { display: grid; gap: 10px; padding: 4px 0; }
 .skelett-zeile { height: 58px; border-radius: var(--radius); background: linear-gradient(90deg, #e6e4de 25%, #f1efea 40%, #e6e4de 55%); background-size: 300% 100%; animation: schimmer 1.3s linear infinite; }

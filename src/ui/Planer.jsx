@@ -26,6 +26,7 @@ export default function Planer({ zustand, setZustand, onTicket }) {
   const [suche, setSuche] = useState(null); // "von" | "nach"
   const [ergebnis, setErgebnis] = useState(null);
   const [laedt, setLaedt] = useState(false);
+  const [datenschutz, setDatenschutz] = useState(false);
 
   const plan = useMemo(() => {
     if (!von || !nach) return null;
@@ -141,7 +142,35 @@ export default function Planer({ zustand, setZustand, onTicket }) {
       )}
       {nach && !plan && <p className="hinweis-leise">Für dieses Ziel wurde keine U-Bahn-Verbindung gefunden.</p>}
 
-      <p className="fussnote">Inoffizielle Demo, kein Angebot der VAG. Nur U-Bahn (U1, U2, U3). Abfahrten: offene VAG-Schnittstelle. Zugänge und Karten: © OpenStreetMap-Mitwirkende.</p>
+      <p className="fussnote">
+        Inoffizielle Demo, kein Angebot der VAG. Nur U-Bahn (U1, U2, U3). Abfahrten: offene VAG-Schnittstelle.
+        Zugänge und Karten: © OpenStreetMap-Mitwirkende.{" "}
+        <button type="button" className="fuss-link" onClick={() => setDatenschutz(true)}>Datenschutz</button>
+      </p>
+
+      {datenschutz && (
+        <div className="blatt" role="dialog" aria-label="Datenschutz">
+          <div className="blatt-kopf">
+            <button className="rund" onClick={() => setDatenschutz(false)} aria-label="Schließen"><Icon name="zurueck" /></button>
+            <div className="kopf-titel"><strong>Datenschutz</strong></div>
+          </div>
+          <div className="blatt-inhalt datenschutz">
+            <p>Diese Seite ist ein privates Übungsprojekt und setzt <strong>keine Cookies</strong>.</p>
+            <p>
+              Beim Öffnen wird einmal je Sitzung festgehalten, aus welchem <strong>Netz</strong> und welcher
+              <strong> Stadt</strong> der Aufruf kam, dazu Gerätetyp und aufgerufene Seite. Die IP-Adresse wird
+              dafür einmal abgefragt und <strong>nicht gespeichert</strong> – weder hier noch sonstwo. Es entsteht
+              kein Profil, und einzelne Personen lassen sich daraus nicht erkennen.
+            </p>
+            <p>
+              Beim Benutzen werden außerdem Anfragen an die Fahrplan-Schnittstelle der VAG, an den Fußweg-Dienst
+              OSRM (FOSSGIS e.V.), an die Adresssuche Photon (komoot) und an die Kartenkacheln von OpenStreetMap
+              gestellt. Diese Dienste sehen dabei die IP-Adresse des Geräts.
+            </p>
+            <p>Fragen dazu gern an den Betreiber dieser Seite.</p>
+          </div>
+        </div>
+      )}
 
       {suche && (
         <Suche titel={suche === "von" ? "Startstation" : "Ziel"} nurStationen={suche === "von"} onZu={() => setSuche(null)}
